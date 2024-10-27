@@ -9,7 +9,7 @@ In your Django project, create a new middleware file.
 - Create a file rate_limit_middleware.py in one of your app directories inside middleware folder in your Django project.
 
 - Add the following rate-limiting code adapted for Django:
- [Rate_Limit_Middleware](https://github.com/akashgalagali/DoS-Rate-Limit-)
+ [Rate_Limit_Middleware]([https://github.com/akashgalagali/DoS-Rate-Limit-](https://github.com/akashgalagali/DoS-Rate-Limit-/blob/master/rate_limit_middleware.py))
 
 -  Register the Middleware in settings.py
 
